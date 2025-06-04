@@ -24,6 +24,6 @@ python calculator.py
 ## 🛠️ Tech Used
 - Python 🐍
 - Standard input/output for command-line interaction
-- 
+
 ## 👩‍💻 Author
 Josna John
